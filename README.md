@@ -1,2 +1,0 @@
-# ReactBlogApp
-Created with CodeSandbox
